@@ -1,0 +1,1 @@
+thjs is inside templates
